@@ -1,0 +1,6 @@
+{
+  "name": "CampusMate AI",
+  "description": "Intelligent college learning and campus assistance platform powered by Gemma 4 for MCQs, coding challenges, short-answer revision, and student guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
